@@ -13,3 +13,4 @@ movie details API
 - Unit testing
 - Handle pagination
 - Add search functionality
+- Use Swift/SwiftUI
